@@ -21,23 +21,11 @@ A full-stack web application built using **Flask**, **MySQL**, and **Flask-Login
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack
 
-### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Frameworks & Libraries
-![Flask](https://skillicons.dev/icons?i=flask)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### Database & Tools
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+- **Backend**: Python, Flask, Flask-Login
+- **Frontend**: HTML, CSS, Bootstrap
+- **Database**: MySQL
+- **Tools**: Git, GitHub, VS Code
 
 ---
-
-
